@@ -13,7 +13,7 @@
     {
       { name="cheat445", amount=1}
     },
-    icon = "__InitialBusCheat__/graphics/blue44.png",
+    icon = "__InitialBusCheat_revived__/graphics/blue44.png",
     icon_size = 32,
   },})
   end
@@ -27,7 +27,7 @@ data:extend(
 {
     type = "item",
     name = "cheat445",
-    icon = "__InitialBusCheat__/graphics/blue44.png",
+    icon = "__InitialBusCheat_revived__/graphics/blue44.png",
     icon_size = 32,
   --  flags = {"goes-to-quickbar"},
     subgroup = "belt",
@@ -42,7 +42,7 @@ data:extend(
   {
     type = "inserter",
     name = "cheat445",
-    icon = "__InitialBusCheat__/graphics/blue44.png",
+    icon = "__InitialBusCheat_revived__/graphics/blue44.png",
     icon_size = 32,
     flags = {"placeable-neutral", "placeable-player", "player-creation","not-repairable","not-rotatable"},
     minable =
@@ -149,7 +149,7 @@ data:extend(
     {
       sheet =
       {
-        filename = "__InitialBusCheat__/graphics/44.png",
+        filename = "__InitialBusCheat_revived__/graphics/44.png",
 		scale = 10,
         priority = "extra-high",
         width = 46,
